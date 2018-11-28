@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoCosmos", "MongoCosmos\MongoCosmos.csproj", "{12CC8161-77BE-4213-B0EE-AD751F12CD41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CC8161-77BE-4213-B0EE-AD751F12CD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CC8161-77BE-4213-B0EE-AD751F12CD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CC8161-77BE-4213-B0EE-AD751F12CD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CC8161-77BE-4213-B0EE-AD751F12CD41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4662EF62-CAE9-4C99-9959-C433B46234D8}
+	EndGlobalSection
+EndGlobal
